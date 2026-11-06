@@ -18,3 +18,7 @@ A RESTful API developed using **Python and Flask** to manage student records eff
 
 ### Purpose
 This project is developed to practice Python Flask API development and understand how RESTful APIs work in real-world applications.
+
+### Watch Video Demonstration of  Student Management Flask API
+click here to watch the video
+https://drive.google.com/file/d/1aymAdz_uiqNFlXyriZk45pNR-jkM4Vsu/view?usp=sharing
